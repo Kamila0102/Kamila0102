@@ -41,7 +41,6 @@ Busco uma oportunidade de estágio ou posição inicial em tecnologia, com inter
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> </div>
 📚 Em desenvolvimento
 
 Atualmente estou direcionando meus estudos para ampliar minha base técnica, principalmente em:
