@@ -8,7 +8,12 @@
 
 Sou estudante de Engenharia de Software, atualmente construindo minha base técnica e buscando minha primeira oportunidade profissional na área de tecnologia.
 
-Tenho conhecimentos iniciais em HTML, CSS e JavaScript, além de experiência com ferramentas de design e prototipagem como Figma e Canva.
+Tenho conhecimentos iniciais em
+
+💻 Desenvolvimento
+<div> <img src="https://skillicons.dev/icons?i=html,css,js" /> </div>
+🎨 Design & Prototipagem
+<div> <img src="https://skillicons.dev/icons?i=figma" />
 
 Também já realizei estudos relacionados a:
 
@@ -33,15 +38,6 @@ Busco uma oportunidade de estágio ou posição inicial em tecnologia, com inter
 💻 Desenvolvimento de Software
 🔌 APIs e Integrações
 🗄️ Banco de Dados
-
-
-Quero desenvolver minha experiência prática, aprender com profissionais da área e contribuir para projetos enquanto avanço na minha formação em Engenharia de Software.
-
-🛠️ Tecnologias & Ferramentas
-💻 Desenvolvimento
-<div> <img src="https://skillicons.dev/icons?i=html,css,js" /> </div>
-🎨 Design & Prototipagem
-<div> <img src="https://skillicons.dev/icons?i=figma" />
 
 <br><br>
 
