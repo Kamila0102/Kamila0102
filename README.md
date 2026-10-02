@@ -1,4 +1,4 @@
-👋 Olá, eu sou SEU NOME
+                                                                                      KAMILA DE CASSIA MARCON
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Em+busca+da+primeira+oportunidade+em+Tech;Futuro+Backend+Developer+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br><br>
