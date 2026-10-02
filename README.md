@@ -1,79 +1,144 @@
-👋 Olá, eu sou Kamila de Cassia Marcon
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Criando+soluções+modernas+e+escaláveis;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /> <br/> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F7FF" alt="Profile views"/> </div>
-🚀 Sobre mim
+👋 Olá, eu sou SEU NOME
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Em+busca+da+primeira+oportunidade+em+Tech;Futuro+Backend+Developer+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%92%BB" alt="Typing SVG" />
 
-💻 Desenvolvedor apaixonado por criar aplicações modernas, performáticas e escaláveis.
+<br><br>
 
-🧠 Atualmente focado em desenvolvimento web, APIs, arquitetura de software e novas tecnologias.
+<img src="https://img.shields.io/badge/Engenharia%20de%20Software-Estudante-00D9FF?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Foco-Backend%20%7C%20Analista-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Buscando%20oportunidade-22C55E?style=for-the-badge" /> </div>
+🧑‍💻 Sobre mim
 
-🎯 Meu objetivo é transformar ideias em produtos digitais eficientes e experiências incríveis.
+Sou estudante de Engenharia de Software, atualmente construindo minha base técnica e buscando minha primeira oportunidade profissional na área de tecnologia.
 
-📚 Sempre estudando, experimentando e evoluindo.
+Tenho conhecimentos iniciais em HTML, CSS e JavaScript, além de experiência com ferramentas de design e prototipagem como Figma e Canva.
 
-🛠️ Tecnologias
-<div align="center">
-💻 Linguagens
-<img src="https://skillicons.dev/icons?i=js" />
-⚛️ Front-end
-<img src="https://skillicons.dev/icons?i=react,html,css," />
-⚙️ Back-end
-<img src="https://skillicons.dev/icons?i=nodejs" />
-🗄️ Banco de dados
-<img src="https://skillicons.dev/icons?i=postgre,mysql" />
-☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=linux" />
-🔧 Ferramentas
-<img src="https://skillicons.dev/icons?i=,github,vscode,figma" /> </div>
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> </div>
-🔥 Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" /> </div>
+Também já realizei estudos relacionados a:
+
+🎨 Interface e Jornada do Usuário
+
+🤖 Engenharia de Prompts
+
+🧩 Prototipagem de Sistemas Computacionais
+
+💻 Fundamentos de desenvolvimento web
+
+🧠 Resolução de problemas e pensamento lógico
+
+Meu objetivo é transformar o conhecimento adquirido durante a graduação em experiência prática, participando de projetos reais e evoluindo continuamente como profissional de tecnologia.
+
+🎯 Objetivo profissional
+
+Busco uma oportunidade de estágio ou posição inicial em tecnologia, com interesse especial em:
+
+⚙️ Backend
+📊 Análise de Sistemas / Tecnologia
+💻 Desenvolvimento de Software
+🔌 APIs e Integrações
+🗄️ Banco de Dados
+
+
+Quero desenvolver minha experiência prática, aprender com profissionais da área e contribuir para projetos enquanto avanço na minha formação em Engenharia de Software.
+
+🛠️ Tecnologias & Ferramentas
+💻 Desenvolvimento
+<div> <img src="https://skillicons.dev/icons?i=html,css,js" /> </div>
+🎨 Design & Prototipagem
+<div> <img src="https://skillicons.dev/icons?i=figma" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> </div>
+📚 Em desenvolvimento
+
+Atualmente estou direcionando meus estudos para ampliar minha base técnica, principalmente em:
+
+<div> <img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,mysql,git,github" /> </div>
+
+🚧 Essas tecnologias fazem parte da minha jornada de aprendizado e representam áreas que estou buscando desenvolver progressivamente.
+
+🧠 Competências
+💪 Pontos fortes
+
+🗣️ Comunicação
+
+🧩 Resolução de problemas
+
+🎯 Dedicação
+
+📚 Disposição para aprender
+
+🤝 Colaboração
+
+🔎 Curiosidade e busca por conhecimento
+
+🌱 Em desenvolvimento
+
+🗄️ Conhecimentos em Banco de Dados
+
+⏱️ Organização e gestão do tempo de estudos
+
+⚙️ Desenvolvimento Backend
+
+🧠 Aprofundamento técnico em Engenharia de Software
+
+📈 Minha jornada
+Engenharia de Software
+        │
+        ▼
+Fundamentos de Desenvolvimento
+        │
+        ├── HTML
+        ├── CSS
+        └── JavaScript
+        │
+        ▼
+Interface & Experiência
+        │
+        ├── Figma
+        ├── Canva
+        └── UX / Jornada do Usuário
+        │
+        ▼
+Próximo passo 🚀
+        │
+        ├── Backend
+        ├── Banco de Dados
+        ├── APIs
+        └── Projetos práticos
+
+🚀 Atualmente
+
+🎓 Cursando Engenharia de Software
+
+💻 Aprofundando meus conhecimentos em programação
+
+⚙️ Direcionando meus estudos para Backend
+
+🗄️ Desenvolvendo conhecimentos em Banco de Dados
+
+🧪 Buscando transformar estudos em projetos práticos
+
+💼 Em busca da minha primeira oportunidade profissional em tecnologia
+
+📂 Projetos
+
+🚧 Meus projetos estão em constante evolução. Em breve, esta seção contará com aplicações desenvolvidas durante minha jornada de aprendizado.
+
+🔨 Em construção
+
+Projeto 01 — Em breve
+
+Aplicação desenvolvida para colocar em prática conceitos de programação, organização de código e desenvolvimento de sistemas.
+
+JavaScript HTML CSS
+
+📊 GitHub
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 🐍 Contribuições
-<div align="center"> <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
-🚀 Projetos em destaque
-<table> <tr> <td width="50%">
-🌐 Projeto 01
+<div align="center"> <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Animação das contribuições" /> </div>
+📫 Vamos conversar?
 
-Descrição curta e objetiva do projeto.
+Estou aberto a oportunidades, projetos, networking e conversas relacionadas à tecnologia.
 
-Tecnologias:
-React Node.js PostgreSQL
-
-🔗 Ver projeto
-
-</td> <td width="50%">
-⚡ Projeto 02
-
-Descrição curta e objetiva do projeto.
-
-Tecnologias:
-Next.js TypeScript Docker
-
-🔗 Ver projeto
-
-</td> </tr> </table>
-💼 Experiência
-🚀 Desenvolvimento de aplicações web
-🔌 Desenvolvimento e integração de APIs
-🗄️ Modelagem e otimização de bancos de dados
-☁️ Cloud & DevOps
-🧪 Testes e qualidade de software
-📐 Arquitetura e boas práticas
-
-🎯 Atualmente
-
-🔭 Trabalhando em projetos pessoais e profissionais
-
-🌱 Aprendendo novas tecnologias
-
-🧠 Estudando arquitetura e engenharia de software
-
-🚀 Criando projetos open source
-
-🤝 Aberto a colaborações
-
-📫 Entre em contato
-<div align="center"> <a href="https://linkedin.com/in/SEU_USUARIO"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:seuemail@email.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/SEU_USUARIO"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 <div align="center">
-💡 "Transformando ideias em código, e código em soluções."
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div>
+🚀 Em constante aprendizado, construindo meu caminho na tecnologia.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=120&section=footer" /> </div>
