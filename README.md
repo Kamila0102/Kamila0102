@@ -12,19 +12,19 @@ Tenho conhecimentos iniciais em HTML, CSS e JavaScript, além de experiência co
 
 Também já realizei estudos relacionados a:
 
-🎨 Interface e Jornada do Usuário
+ Interface e Jornada do Usuário
 
-🤖 Engenharia de Prompts
+ Engenharia de Prompts
 
-🧩 Prototipagem de Sistemas Computacionais
+ Prototipagem de Sistemas Computacionais
 
-💻 Fundamentos de desenvolvimento web
+ Fundamentos de desenvolvimento web
 
-🧠 Resolução de problemas e pensamento lógico
+ Resolução de problemas e pensamento lógico
 
 Meu objetivo é transformar o conhecimento adquirido durante a graduação em experiência prática, participando de projetos reais e evoluindo continuamente como profissional de tecnologia.
 
-🎯 Objetivo profissional
+Objetivo profissional
 
 Busco uma oportunidade de estágio ou posição inicial em tecnologia, com interesse especial em:
 
@@ -81,28 +81,24 @@ Atualmente estou direcionando meus estudos para ampliar minha base técnica, pri
 
 📈 Minha jornada
 Engenharia de Software
-        │
-        ▼
+     
 Fundamentos de Desenvolvimento
-        │
-        ├── HTML
-        ├── CSS
-        └── JavaScript
-        │
-        ▼
+         HTML
+         CSS
+         JavaScript
+
 Interface & Experiência
-        │
-        ├── Figma
-        ├── Canva
-        └── UX / Jornada do Usuário
-        │
-        ▼
+        
+         Figma
+         Canva
+         UX / Jornada do Usuário
+     
 Próximo passo 🚀
-        │
-        ├── Backend
-        ├── Banco de Dados
-        ├── APIs
-        └── Projetos práticos
+        
+         Backend
+         Banco de Dados
+         APIs
+         Projetos práticos
 
 🚀 Atualmente
 
