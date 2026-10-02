@@ -116,15 +116,16 @@ Próximo passo 🚀
 
 📂 Projetos
 
-🚧 Meus projetos estão em constante evolução. Em breve, esta seção contará com aplicações desenvolvidas durante minha jornada de aprendizado.
+CADBIKE — Sistema de Cadastro de Peças de Bicicletas
 
-🔨 Em construção
+O CADBIKE é um sistema web desenvolvido para auxiliar no cadastro e gerenciamento de produtos e peças de uma bicicletaria. O projeto permite cadastrar códigos de produtos, registrar informações sobre peças e visualizar, alterar ou excluir produtos cadastrados. O sistema foi desenvolvido com foco em uma interface simples e intuitiva, utilizando tecnologias web básicas e o LocalStorage do navegador para armazenamento dos dados.
 
-Projeto 01 — Em breve
+Além disso, o projeto fornece a aplicação prática de conceitos de desenvolvimento web, JavaScript, manipulação do DOM e armazenamento de dados no navegador
 
-Aplicação desenvolvida para colocar em prática conceitos de programação, organização de código e desenvolvimento de sistemas.
+Aprendizados Durante o desenvolvimento do projeto, foram adquiridos conhecimentos como:
 
-JavaScript HTML CSS
+Estruturação de páginas com HTML; Estilização utilizando CSS; Programação em JavaScript; Manipulação de elementos HTML através do DOM; Criação de cargos e validações; Uso de localStorage; Manipulação de arrays e objetos; Criação de interfaces para cadastro e consulta de informações.
+
 
 📊 GitHub
 <div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </div>
