@@ -21,7 +21,7 @@
 🗄️ Banco de dados
 <img src="https://skillicons.dev/icons?i=postgre,mysql" />
 ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=linux" />
 🔧 Ferramentas
 <img src="https://skillicons.dev/icons?i=,github,vscode,figma" /> </div>
 📊 GitHub Analytics
