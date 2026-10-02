@@ -102,7 +102,7 @@ Estruturação de páginas com HTML; Estilização utilizando CSS; Programação
 
 Estou aberto a oportunidades, projetos, networking e conversas relacionadas à tecnologia.
 
-<div align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/kamila-marcon-8648a02a9"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+<div align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/kamila-marcon-8648a02a9"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="kamilamarcon01@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 <div align="center">
 🚀 Em constante aprendizado, construindo meu caminho na tecnologia.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=120&section=footer" /> </div>
