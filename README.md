@@ -50,7 +50,7 @@ Quero desenvolver minha experiência prática, aprender com profissionais da ár
 
 Atualmente estou direcionando meus estudos para ampliar minha base técnica, principalmente em:
 
-<div> <img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,mysql,git,github" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=nodejs,python,mysql," /> </div>
 
 🚧 Essas tecnologias fazem parte da minha jornada de aprendizado e representam áreas que estou buscando desenvolver progressivamente.
 
