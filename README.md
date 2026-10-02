@@ -91,28 +91,6 @@ Interface & Experiência
          Canva
          UX / Jornada do Usuário
      
-Próximo passo 🚀
-        
-         Backend
-         Banco de Dados
-         APIs
-         Projetos práticos
-
-
-🚀 Atualmente
-
-🎓 Cursando Engenharia de Software
-
-💻 Aprofundando meus conhecimentos em programação
-
-⚙️ Direcionando meus estudos para Backend
-
-🗄️ Desenvolvendo conhecimentos em Banco de Dados
-
-🧪 Buscando transformar estudos em projetos práticos
-
-💼 Em busca da minha primeira oportunidade profissional em tecnologia
-
 📂 Projetos
 
 CADBIKE — Sistema de Cadastro de Peças de Bicicletas
@@ -124,11 +102,6 @@ Além disso, o projeto fornece a aplicação prática de conceitos de desenvolvi
 Aprendizados Durante o desenvolvimento do projeto, foram adquiridos conhecimentos como:
 
 Estruturação de páginas com HTML; Estilização utilizando CSS; Programação em JavaScript; Manipulação de elementos HTML através do DOM; Criação de cargos e validações; Uso de localStorage; Manipulação de arrays e objetos; Criação de interfaces para cadastro e consulta de informações.
-
-
-📊 GitHub
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-
 
 📫 Vamos conversar?
 
