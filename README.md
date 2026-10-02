@@ -128,8 +128,8 @@ JavaScript HTML CSS
 
 📊 GitHub
 <div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🐍 Contribuições
-<div align="center"> <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Animação das contribuições" /> </div>
+
+
 📫 Vamos conversar?
 
 Estou aberto a oportunidades, projetos, networking e conversas relacionadas à tecnologia.
